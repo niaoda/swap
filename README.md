@@ -10,7 +10,7 @@ Linux VPS一键添加/删除Swap虚拟内存
 
 wget https://raw.githubusercontent.com/niaoda/swap/main/swap.sh && bash swap.sh
 
-<img nogallery="" src="https://testingcf.jsdelivr.net/gh/Mark-1215/CDN/uploads/content/Swap.png"><hr class="content-copyright" style="margin-top:50px" /><blockquote class="content-copyright" style="font-style:normal">
+<img nogallery="" src="https://testingcf.jsdelivr.net/gh/Mark-1215/CDN/uploads/content/Swap.png"><hr class="content-copyright" style="margin-top:50px" />
 
 然后根据选项进行操作，记得添加swap的时候填写纯数字，默认单位为M。
 
