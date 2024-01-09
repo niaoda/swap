@@ -8,6 +8,10 @@ Linux VPS一键添加/删除Swap虚拟内存
 
 运行命令：
 
-wget https://raw.githubusercontent.com/zhucaidan/swap.sh/main/swap.sh && bash swap.sh
+wget https://raw.githubusercontent.com/niaoda/swap/main/swap.sh && bash swap.sh
 
 然后根据选项进行操作，记得添加swap的时候填写纯数字，默认单位为M。
+
+注意：输入分区大小时，单位为 M, 如需 1G, 直接输入 1024 即可
+
+最后输入 free -m 检查是否添加成功
